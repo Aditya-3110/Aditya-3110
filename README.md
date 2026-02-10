@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👨‍💻 About Me<br><br>🔭 I’m currently working on **DSA + Full Stack Web Development Projects**  <br>👯 I’m looking to collaborate on **Open Source & Web Development Projects**  <br>🤝 I’m looking for help with **System Design & Advanced DSA Concepts**  <br>🌱 I’m currently learning **React.js, Node.js, and Competitive Programming**  <br>💬 Ask me about **C++, DSA, Web Development, and Problem Solving**  <br>⚡ Fun fact: **I love Gym 🏋️, Cricket 🏏 and building projects that feel real-world 🚀**<br>
+🔭 I’m currently working on **DSA + Full Stack Web Development Projects**  <br>👯 I’m looking to collaborate on **Open Source & Web Development Projects**  <br>🤝 I’m looking for help with **System Design & Advanced DSA Concepts**  <br>🌱 I’m currently learning **React.js, Node.js, and Competitive Programming**  <br>💬 Ask me about **C++, DSA, Web Development, and Problem Solving**  <br>⚡ Fun fact: **I love Gym 🏋️, Cricket 🏏 and building projects that feel real-world 🚀**<br>
 
 
 ## 🌐 Socials:
